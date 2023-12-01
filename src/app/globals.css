@@ -1,0 +1,9 @@
+.toolbarButtons{
+    display: flex;
+    justify-content: flex-end;
+    float:right;
+}
+
+.layoutButtons{
+    padding-right: 20px;
+}
